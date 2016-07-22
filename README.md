@@ -2,7 +2,7 @@
 
 > A curated list of awesome AEM related resources
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 

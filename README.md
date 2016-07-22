@@ -6,6 +6,11 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+Table of Contents
+=================
+
+*  [Blogs](#blogs)
+
 ## Blogs
 
 - [Nate Yoles's Blog](http://www.nateyolles.com/blog) - A developer at Adobe. Excellent posts covering useful features that I haven't seen elsewhere
